@@ -1,0 +1,34 @@
+# === Python-related ===
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+*.db
+*.sqlite3
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# === LLM Document QA ===
+embeddings.pkl
+SJCEM_Document.txt
+
+# === llama.cpp (exclude from repo) ===
+llama.cpp/
+llama.cpp/*
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Editor-specific ===
+.vscode/
+.idea/
+*.swp
+

@@ -1,0 +1,60 @@
+
+Document: St. John College of Engineering and Management (SJCEM)
+
+Welcome Message
+Welcome to St. John College of Engineering and Management (SJCEM), a premier institute located in Palghar, Maharashtra. SJCEM is affiliated with the University of Mumbai and approved by AICTE.
+
+Admission Details
+- Courses Offered:
+  - B.E. in Computer Engineering
+  - B.E. in Information Technology
+  - B.E. in Electronics & Telecommunication
+  - B.E. in Mechanical Engineering
+  - B.E. in Civil Engineering
+
+- Eligibility:
+  Candidates must have passed HSC (12th Standard) with a minimum of 50% marks in Physics, Chemistry, and Mathematics.
+
+- Admission Process:
+  Admission is based on MHT-CET or JEE Mains scores followed by a Centralized Admission Process (CAP) conducted by DTE Maharashtra.
+
+- Fees (Approximate):
+  - Computer Engineering: ₹1,25,000/year
+  - Information Technology: ₹1,20,000/year
+  - Mechanical Engineering: ₹1,05,000/year
+  - Civil Engineering: ₹1,00,000/year
+  (Note: Fees are subject to change as per DTE and University guidelines)
+
+- Contact for Admission:
+  Phone: 123456789
+  Email: admissions@sjcem.edu.in
+
+Faculty Details
+- Dr. Anjali Patil – Principal
+  Ph.D. in Computer Engineering with 20 years of academic experience.
+
+- Prof. Rajesh Mehta – HOD (Information Technology)
+  Specialization in Artificial Intelligence and Data Science.
+
+- Prof. Swati Deshmukh – Assistant Professor (Mechanical)
+  Expert in CAD and Thermal Engineering.
+
+- Prof. Nikhil Pawar – Assistant Professor (Civil)
+  Expert in Structural Engineering.
+
+Facilities Available
+- Central Library with over 30,000+ books and digital journal access.
+- 24x7 WiFi-enabled campus with department-specific laboratories.
+- Spacious cafeteria, seminar halls, sports ground, and hostel accommodations for boys and girls.
+
+Student Achievements
+- Final-year Computer Engineering students won first prize at SIH (Smart India Hackathon) 2024.
+- Mechanical Engineering team reached finals in Baja SAE India 2023.
+- Students from IT department published research papers in international journals on topics such as Machine Learning and IoT.
+- Civil Engineering students bagged second place in state-level Bridge Model Design Competition.
+
+IMPORTANT NOTE
+This assistant is strictly limited to answering only based on the contents of this document.
+
+If a question is asked that is not covered in this document, the assistant will respond with:
+"I'm sorry, the specific information is not available in the document. Please contact our reception at 123456789."
