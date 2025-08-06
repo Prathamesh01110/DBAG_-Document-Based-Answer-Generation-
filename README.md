@@ -56,6 +56,10 @@ After build, your binary will be at:
    ```bash
    cd llama.cpp
    ./build/bin/llama-server -m models/ggml-model-Q4_K_M.gguf
+
+   or 
+
+   ./build/bin/llama-server -m models/Llama-3.2-3B-Instruct-Q4_K_M.gguf
    ```
 
    > Keep the terminal open — this will start the local inference server at `http://localhost:8080`.

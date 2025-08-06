@@ -1,60 +1,69 @@
+ST. JOHN COLLEGE OF ENGINEERING AND MANAGEMENT (SJCEM) - COMPLETE INFORMATION
 
-Document: St. John College of Engineering and Management (SJCEM)
+=== COLLEGE OVERVIEW ===
+St. John College of Engineering and Management (SJCEM) is a premier institute located in Palghar, Maharashtra. SJCEM is affiliated with the University of Mumbai and approved by AICTE. Welcome to our distinguished institution offering quality engineering education.
 
-Welcome Message
-Welcome to St. John College of Engineering and Management (SJCEM), a premier institute located in Palghar, Maharashtra. SJCEM is affiliated with the University of Mumbai and approved by AICTE.
+=== COURSES AND PROGRAMS OFFERED ===
+St. John College of Engineering and Management offers the following undergraduate programs:
+• B.E. in Computer Engineering (Fee: ₹1,25,000/year)
+• B.E. in Information Technology (Fee: ₹1,20,000/year)  
+• B.E. in Electronics & Telecommunication (Fee: ₹1,15,000/year)
+• B.E. in Mechanical Engineering (Fee: ₹1,05,000/year)
+• B.E. in Civil Engineering (Fee: ₹1,00,000/year)
 
-Admission Details
-- Courses Offered:
-  - B.E. in Computer Engineering
-  - B.E. in Information Technology
-  - B.E. in Electronics & Telecommunication
-  - B.E. in Mechanical Engineering
-  - B.E. in Civil Engineering
+All courses are approved by AICTE and affiliated with University of Mumbai. Fees are subject to change as per DTE and University guidelines.
 
-- Eligibility:
-  Candidates must have passed HSC (12th Standard) with a minimum of 50% marks in Physics, Chemistry, and Mathematics.
+=== ADMISSION ELIGIBILITY AND PROCESS ===
+Admission Eligibility Requirements:
+Candidates must have passed HSC (12th Standard) with a minimum of 50% marks in Physics, Chemistry, and Mathematics.
 
-- Admission Process:
-  Admission is based on MHT-CET or JEE Mains scores followed by a Centralized Admission Process (CAP) conducted by DTE Maharashtra.
+Admission Process Details:
+Admission to SJCEM is based on MHT-CET or JEE Mains scores followed by a Centralized Admission Process (CAP) conducted by DTE Maharashtra.
 
-- Fees (Approximate):
-  - Computer Engineering: ₹1,25,000/year
-  - Information Technology: ₹1,20,000/year
-  - Mechanical Engineering: ₹1,05,000/year
-  - Civil Engineering: ₹1,00,000/year
-  (Note: Fees are subject to change as per DTE and University guidelines)
+Admission Contact Information:
+Phone: 123456789
+Email: admissions@sjcem.edu.in
 
-- Contact for Admission:
-  Phone: 123456789
-  Email: admissions@sjcem.edu.in
+=== COMPLETE FACULTY DIRECTORY ===
+Faculty Members at St. John College of Engineering and Management:
 
-Faculty Details
-- Dr. Anjali Patil – Principal
-  Ph.D. in Computer Engineering with 20 years of academic experience.
+Dr. Anjali Patil – Principal
+Ph.D. in Computer Engineering with 20 years of academic experience.
 
-- Prof. Rajesh Mehta – HOD (Information Technology)
-  Specialization in Artificial Intelligence and Data Science.
+Prof. Rajesh Mehta – HOD (Information Technology)  
+Specialization in Artificial Intelligence and Data Science.
 
-- Prof. Swati Deshmukh – Assistant Professor (Mechanical)
-  Expert in CAD and Thermal Engineering.
+Prof. Swati Deshmukh – Assistant Professor (Mechanical)
+Expert in CAD and Thermal Engineering.
 
-- Prof. Nikhil Pawar – Assistant Professor (Civil)
-  Expert in Structural Engineering.
+Prof. Nikhil Pawar – Assistant Professor (Civil)
+Expert in Structural Engineering.
 
-Facilities Available
-- Central Library with over 30,000+ books and digital journal access.
-- 24x7 WiFi-enabled campus with department-specific laboratories.
-- Spacious cafeteria, seminar halls, sports ground, and hostel accommodations for boys and girls.
+=== CAMPUS FACILITIES AND INFRASTRUCTURE ===
+St. John College of Engineering and Management provides the following facilities:
 
-Student Achievements
-- Final-year Computer Engineering students won first prize at SIH (Smart India Hackathon) 2024.
-- Mechanical Engineering team reached finals in Baja SAE India 2023.
-- Students from IT department published research papers in international journals on topics such as Machine Learning and IoT.
-- Civil Engineering students bagged second place in state-level Bridge Model Design Competition.
+Library Facilities:
+Central Library with over 30,000+ books and digital journal access.
 
-IMPORTANT NOTE
-This assistant is strictly limited to answering only based on the contents of this document.
+Technology Infrastructure:
+24x7 WiFi-enabled campus with department-specific laboratories.
 
-If a question is asked that is not covered in this document, the assistant will respond with:
-"I'm sorry, the specific information is not available in the document. Please contact our reception at 123456789."
+Campus Amenities:
+Spacious cafeteria, seminar halls, sports ground, and hostel accommodations for boys and girls.
+
+=== STUDENT ACHIEVEMENTS AND RECOGNITIONS ===
+Recent Student Achievements at SJCEM:
+Final-year Computer Engineering students won first prize at SIH (Smart India Hackathon) 2024.
+Students from IT department published research papers in international journals on topics such as Machine Learning and IoT.
+Mechanical Engineering team reached finals in Baja SAE India 2023.
+Civil Engineering students bagged second place in state-level Bridge Model Design Competition.
+
+=== CONTACT INFORMATION ===
+General Contact: 123456789
+Admission Enquiries: admissions@sjcem.edu.in
+Location: Palghar, Maharashtra
+Affiliation: University of Mumbai
+Approval: AICTE
+
+=== IMPORTANT ASSISTANT GUIDELINES ===
+This assistant is strictly limited to answering only based on the contents of this document. If a question is asked that is not covered in this document, the assistant will respond with: "I'm sorry, the specific information is not available in the document. Please contact our reception at 123456789."
